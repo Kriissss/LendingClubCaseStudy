@@ -4,7 +4,7 @@
 
 This project involves performing Exploratory Data Analysis (EDA) on a dataset from a consumer finance company. The goal is to identify patterns and variables that influence loan defaults, which can guide decision-making to minimize credit losses.
 
-# Problem Statement
+## Problem Statement
 
 When a loan application is received, the company must decide whether to approve or reject it. Two key risks are associated with this decision:
 
